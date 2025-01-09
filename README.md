@@ -6,3 +6,4 @@ its only for minecraft and you can edit it like:
 - if server is on Offline mode Or Need Authication
 - the IP adress to yout minecraft server
 - and the port
+# RIGHT NOW ITS ONLY IN POLISH !!!
