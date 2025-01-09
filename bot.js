@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 
 // Konfiguracja bota
 const bot = mineflayer.createBot({
-  host: 'BODZAJNAPUSEJv2.aternos.me',  // Adres serwera Minecraft (zmień na swój)
-  port: 33993,        // Port serwera (domyślnie 25565)
-  username: 'BotGraczaJaxonPL', // Nazwa bota
+  host: '127.0.0.1',  // Adres serwera Minecraft (zmień na swój)
+  port: 22565,        // Port serwera (domyślnie 25565)
+  username: 'BotForMinecraft', // Nazwa bota
   version: '1.20.4',  // Wersja serwera
   auth: 'offline'     // Tryb offline
 });
